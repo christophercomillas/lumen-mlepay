@@ -15,7 +15,7 @@ class ExampleController extends Controller
     }
 
     public function test(){
-        echo 'test webhooks only ';
+        echo 'test webhooks';
     }
 
     //
