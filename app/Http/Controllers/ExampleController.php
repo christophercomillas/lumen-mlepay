@@ -15,7 +15,7 @@ class ExampleController extends Controller
     }
 
     public function test(){
-        echo 'tesing only for company';
+        echo 'tesing only for ticket';
     }
 
     //
